@@ -1,3 +1,5 @@
+// Application that prints prime numbers from 1 to 100
+
 public class primenumber_1_to_100 {
     public static void main(String[] args) {
         System.out.println("Prime Numbers in 1 to 100 :");

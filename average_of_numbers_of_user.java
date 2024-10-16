@@ -1,3 +1,7 @@
+// Our program will ask the user for an array element count. 
+//After determining how many numbers will be entered according to the number of array elements he wants, he will ask him to enter the numbers to add these numbers and keep their sum in the "sum" variable.
+//As the answer to the average, it will print the number of elements (sum/array).
+
 import java.util.Scanner;
 
 public class average_of_numbers_of_user {
